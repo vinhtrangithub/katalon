@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lnk_HomeLinks</name>
+   <tag></tag>
+   <elementGuidId>e67c8eaf-093e-4c1c-9b95-2e41c1c6d369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='content']/descendant::a[contains(text(),'${content}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='content']/descendant::a[contains(text(),'${content}')]</value>
+   </webElementProperties>
+</WebElementEntity>

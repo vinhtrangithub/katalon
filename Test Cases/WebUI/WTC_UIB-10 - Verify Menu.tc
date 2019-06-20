@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-01 - Verify Checkboxes</description>
+   <name>WTC_UIB-10 - Verify Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9133f03-0b2d-4b05-858e-4d8beabe11af</testCaseGuid>
+   <variable>
+      <defaultValue>'JQuery UI Menus'</defaultValue>
+      <description></description>
+      <id>3a8fd073-3373-4b4f-9134-191922f1a0d5</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'JQueryUI - Menu'</defaultValue>
+      <description></description>
+      <id>d19d2708-9064-4ecc-8595-421af4fad170</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+   <variable>
+      <defaultValue>'C:\\Users\\vinhtran\\Downloads'</defaultValue>
+      <description></description>
+      <id>3b074fb9-2d76-4f4e-9be4-c58114acdd44</id>
+      <masked>false</masked>
+      <name>path_Folder</name>
+   </variable>
+   <variable>
+      <defaultValue>'menu.csv'</defaultValue>
+      <description></description>
+      <id>936cc966-04b7-4b7b-bb21-c753daabfb1c</id>
+      <masked>false</masked>
+      <name>filename</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-01 - Verify Checkboxes</description>
+   <name>WTC_UIB-08 - Verify Color and Font</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6193c2e-b608-442f-ba47-ed592eac2450</testCaseGuid>
+   <variable>
+      <defaultValue>'Challenging DOM'</defaultValue>
+      <description></description>
+      <id>51619f7c-1d3a-4b47-a39e-a54460e7445b</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'Challenging DOM'</defaultValue>
+      <description></description>
+      <id>f93ba9b5-6388-4618-afac-8ee2f2d0ca26</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+</TestCaseEntity>

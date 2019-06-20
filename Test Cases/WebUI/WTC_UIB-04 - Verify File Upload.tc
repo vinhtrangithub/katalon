@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-01 - Verify Checkboxes</description>
+   <name>WTC_UIB-04 - Verify File Upload</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6783ff5e-8cda-4394-a466-a1cdda0911b1</testCaseGuid>
+   <variable>
+      <defaultValue>'File Upload'</defaultValue>
+      <description></description>
+      <id>04938855-7902-4850-9e98-a815b51bd14b</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'File Uploader'</defaultValue>
+      <description></description>
+      <id>56a06a6e-1d28-4be1-a8ca-2d35600faeba</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+   <variable>
+      <defaultValue>'test.txt'</defaultValue>
+      <description></description>
+      <id>220153ec-e2e9-47fb-a493-00479e999ea6</id>
+      <masked>false</masked>
+      <name>filename</name>
+   </variable>
+</TestCaseEntity>

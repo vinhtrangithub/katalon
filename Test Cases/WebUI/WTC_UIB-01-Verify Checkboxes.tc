@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-01 - Verify Checkboxes</description>
+   <name>WTC_UIB-01-Verify Checkboxes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9f695a4-d9fd-4bed-ae8a-df75494da9cf</testCaseGuid>
+   <variable>
+      <defaultValue>'Checkboxes'</defaultValue>
+      <description></description>
+      <id>a21b7e4d-707a-4db4-b7b2-5b76e9809308</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'Checkboxes'</defaultValue>
+      <description></description>
+      <id>29ea2240-0e1e-41d6-b422-8be17d7642a7</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>WTC_NavigateToPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>717b74e8-8196-4a92-a3e5-bf263390cb9f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dfd991f8-438a-472d-b5d7-be388fb580e8</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eafcb437-3918-4b1e-b213-9d9df2074ef4</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+</TestCaseEntity>

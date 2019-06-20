@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-01 - Verify Checkboxes</description>
+   <name>WTC_UIB-11 - Verify Table</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>811ac076-d942-4a01-bc9d-d3eb594cce1c</testCaseGuid>
+   <variable>
+      <defaultValue>'Sortable Data Tables'</defaultValue>
+      <description></description>
+      <id>8a501d19-ed67-4fa0-8ea4-6a390392d9e2</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'Data Tables'</defaultValue>
+      <description></description>
+      <id>f44ded9f-e9a2-4bad-80fe-d340697745ad</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+</TestCaseEntity>

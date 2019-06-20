@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-01 - Verify Checkboxes</description>
+   <name>WTC_UIB-07 - Verify Key Presses</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61e582b3-a414-4fcf-acb6-39b4dea1c2fa</testCaseGuid>
+   <variable>
+      <defaultValue>'Key Presses'</defaultValue>
+      <description></description>
+      <id>eca19e59-e804-4b9a-88df-9dafbd71f471</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'Key Presses'</defaultValue>
+      <description></description>
+      <id>0007f8de-2f99-4cbf-bb61-61ac3cede369</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-01 - Verify Checkboxes</description>
+   <name>WTC_UIB-05 - Verify Frames</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27189419-f2b4-4c08-a8e7-9aa03debed4e</testCaseGuid>
+   <variable>
+      <defaultValue>'WYSIWYG Editor'</defaultValue>
+      <description></description>
+      <id>a1ad7d0f-36b0-4118-8943-408ec979c960</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'An iFrame containing the TinyMCE WYSIWYG Editor'</defaultValue>
+      <description></description>
+      <id>14b15778-92cb-4f87-a816-c308bf52abb1</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+   <variable>
+      <defaultValue>'Your content goes here.'</defaultValue>
+      <description></description>
+      <id>ff2251b3-3996-4db4-9583-bfcb4ea31bf8</id>
+      <masked>false</masked>
+      <name>lbl_default</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hello, how are you?'</defaultValue>
+      <description></description>
+      <id>058bd56b-2842-40ed-b9c3-5b7d25823b96</id>
+      <masked>false</masked>
+      <name>lbl_new</name>
+   </variable>
+</TestCaseEntity>

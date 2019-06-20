@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-01 - Verify Checkboxes</description>
+   <name>WTC_UIB-09 - Verify Slider</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4bb56a0-4d17-4d00-871b-04176a38eadc</testCaseGuid>
+   <variable>
+      <defaultValue>'Horizontal Slider'</defaultValue>
+      <description></description>
+      <id>4bde1d8d-d299-456d-b113-a2ee360ff508</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'Horizontal Slider'</defaultValue>
+      <description></description>
+      <id>6366202a-6e95-458d-9158-5f61b79ad161</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+</TestCaseEntity>

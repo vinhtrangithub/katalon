@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chk_Checkbox1</name>
+   <tag></tag>
+   <elementGuidId>95862bc1-cc98-4ac5-98bc-de2af19efae9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(text()[normalize-space()],'${content}')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='checkboxes']/input[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[contains(text()[normalize-space()],'${content}')]</value>
+   </webElementProperties>
+</WebElementEntity>

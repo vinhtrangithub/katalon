@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mnu_CSV</name>
+   <tag></tag>
+   <elementGuidId>2b5e0e34-a0d0-4769-a3cc-7bf70a922094</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu']//a[contains(text(),'Enabled')]/following::a[contains(text(),'Downloads')]/following::a[contains(text(),'CSV')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-01 - Verify Checkboxes</description>
+   <name>WTC_UIB-06 - Verify Alerts</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daee9814-b348-4b5a-8041-200ee80878ed</testCaseGuid>
+   <variable>
+      <defaultValue>'JavaScript Alerts'</defaultValue>
+      <description></description>
+      <id>b160ac40-a993-4b04-b5e4-3724d83039d2</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'JavaScript Alerts'</defaultValue>
+      <description></description>
+      <id>aac3c3e3-bfbe-441e-9431-61cde54ac15d</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+</TestCaseEntity>

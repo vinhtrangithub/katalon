@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>UIB-01 - Verify Checkboxes</description>
+   <name>WTC_UIB-03 - Verify Dropdown</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>938d667b-73ba-4525-bfc6-f5e3c2c91189</testCaseGuid>
+   <variable>
+      <defaultValue>'Dropdown'</defaultValue>
+      <description></description>
+      <id>235f81f4-25a2-4004-9b7f-c1b59e394e09</id>
+      <masked>false</masked>
+      <name>lnk_MenuLink</name>
+   </variable>
+   <variable>
+      <defaultValue>'Dropdown List'</defaultValue>
+      <description></description>
+      <id>26b40900-615e-4966-bb74-5dd67dbc8e6a</id>
+      <masked>false</masked>
+      <name>lbl_Title</name>
+   </variable>
+</TestCaseEntity>
