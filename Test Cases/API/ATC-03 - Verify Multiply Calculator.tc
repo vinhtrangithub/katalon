@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC-03 - Verify Multiply Calculator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2ec743a-2e11-4485-ba13-67eb6e2c8cbc</testCaseGuid>
+   <variable>
+      <defaultValue>'12'</defaultValue>
+      <description></description>
+      <id>89b08455-86f7-4608-abeb-f4c187d07a35</id>
+      <masked>false</masked>
+      <name>a</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>8503ad35-59ad-4582-bc49-96264a1621de</id>
+      <masked>false</masked>
+      <name>b</name>
+   </variable>
+</TestCaseEntity>

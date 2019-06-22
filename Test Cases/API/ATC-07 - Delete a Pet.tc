@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC-07 - Delete a Pet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fcc8d8f-e362-4213-b310-f39d342fab1c</testCaseGuid>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>2f1111c8-c5db-41aa-b2ac-64d7c9dc0b82</id>
+      <masked>false</masked>
+      <name>petID</name>
+   </variable>
+</TestCaseEntity>

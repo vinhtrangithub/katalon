@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC-04 - Verify Subtract Calculator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>91a0c0c2-2fe4-45b0-92b6-f57413d81780</testCaseGuid>
+   <variable>
+      <defaultValue>'12'</defaultValue>
+      <description></description>
+      <id>39ae9950-292d-457c-8085-4d69bad3570c</id>
+      <masked>false</masked>
+      <name>a</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>e0e096d7-4fff-4eec-a3ad-f5ce2895b295</id>
+      <masked>false</masked>
+      <name>b</name>
+   </variable>
+</TestCaseEntity>

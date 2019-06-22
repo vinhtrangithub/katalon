@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC-06 - Get a Pet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb083808-8171-4269-9ce9-1e61d94ff1a0</testCaseGuid>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>6888b23b-0d74-46f7-afae-e32d04580bd1</id>
+      <masked>false</masked>
+      <name>petID</name>
+   </variable>
+</TestCaseEntity>

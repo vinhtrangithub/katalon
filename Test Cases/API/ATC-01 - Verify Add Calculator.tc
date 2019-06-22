@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATC-01 - Verify Add Calculator</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6286615c-aa14-46d0-ab3e-9c5d701e82c8</testCaseGuid>
+   <variable>
+      <defaultValue>'12'</defaultValue>
+      <description></description>
+      <id>8f791c8b-3de1-420f-aed1-f893c8cdfe6a</id>
+      <masked>false</masked>
+      <name>a</name>
+   </variable>
+   <variable>
+      <defaultValue>'3'</defaultValue>
+      <description></description>
+      <id>2db81688-54e9-482c-9c68-7d9434a3e596</id>
+      <masked>false</masked>
+      <name>b</name>
+   </variable>
+</TestCaseEntity>
