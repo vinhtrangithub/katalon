@@ -21,5 +21,5 @@ String text = WebUI.getText(findTestObject('WebUI/HomePage/lbl_Header'))
 println(text)
 
 if (text.compareTo(lbl_Title) != 0) {
-	Assert.assertTrue(false, ('The title is not as expected. Currently header is \'' + text + '\''))
+	Assert.assertTrue(false, ('The title is not as expected. Currently header is \'' + text + '\'. But expected is \''+ lbl_Title +'\''))
 }

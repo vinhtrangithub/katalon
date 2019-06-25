@@ -6,14 +6,14 @@
    <comment></comment>
    <testCaseGuid>872a0540-3a8e-474f-a608-d144bbeeb6fd</testCaseGuid>
    <variable>
-      <defaultValue>'Dropdown'</defaultValue>
+      <defaultValue>'Drag and Drop'</defaultValue>
       <description></description>
       <id>0e6f2ec3-9488-414e-8e84-640057dc2fd0</id>
       <masked>false</masked>
       <name>lnk_MenuLink</name>
    </variable>
    <variable>
-      <defaultValue>'Dropdown'</defaultValue>
+      <defaultValue>'Drag and Drop'</defaultValue>
       <description></description>
       <id>5a41755c-80b0-481e-bd26-1aa7112886b7</id>
       <masked>false</masked>
